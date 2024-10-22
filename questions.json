@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Saanvi and Mateo found 8 chocolate bars. They bought 5. How many were left?",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "They saw 12 apple juices on the shelf. They chose 7. How many were still there?",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "7"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Saanvi got 8 lollipops. Mateo got 6 more lollipops. How many apples do they have in total?",
+        "options": [
+            "15",
+            "14",
+            "16",
+            "13"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Saanvi found 6 cookies. Mateo found 5 more cookies. How many cookies do they have together?",
+        "options": [
+            "10",
+            "9",
+            "11",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "They found 15 packets of chips. They bought 10. How many were left?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Mateo had 19 marbles but he lost 6 marbles. How many marbles does Mateo have now?",
+        "options": [
+            "11",
+            "14",
+            "12",
+            "13"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Saanvi found 16 bags of popcorn. If she gave 12 to Mateo, how many does she have left?",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Mateo bought 15 bottles of apple juice. Saanvi added 12 more bottles. How many bottles of apple juice do they have now?",
+        "options": [
+            "27",
+            "26",
+            "24",
+            "25"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Saanvi bought 15 muffins. Mateo bought 13 more muffins. How many muffins do they have in total?",
+        "options": [
+            "27",
+            "29",
+            "28",
+            "30"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10",
+        "question": "They found 25 packets of candies on a shelf. They bought 10. How many were left on the shelf?",
+        "options": [
+            "14",
+            "15",
+            "13",
+            "16"
+        ],
+        "correct": 1
+    }
+]
